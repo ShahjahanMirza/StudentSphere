@@ -4,7 +4,7 @@
 // Configuration
 const API_BASE_URL = window.location.hostname === 'localhost'
   ? 'http://localhost:3000/api'
-  : 'https://studentsphere-backend.onrender.com/api';
+  : 'https://studentsphere-szxf.onrender.com/api';
 
 // Utility Functions
 class Utils {

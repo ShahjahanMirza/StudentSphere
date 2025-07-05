@@ -16,6 +16,7 @@ app.use(cors({
   origin: [
     'http://localhost:3001',
     'https://studentssphere.netlify.app',
+    'https://studentsphere-szxf.onrender.com',
     process.env.CORS_ORIGIN
   ].filter(Boolean),
   credentials: true,
